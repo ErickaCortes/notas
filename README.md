@@ -1,0 +1,2 @@
+# notas
+paso a paso
